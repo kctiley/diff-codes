@@ -1,0 +1,19 @@
+{
+  "name": "diff-codes",
+  "version": "1.0.0",
+  "description": "Compare two objects and create a new object mapping the differences.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kctiley/diff-codes.git"
+  },
+  "author": "Klint Tiley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kctiley/diff-codes/issues"
+  },
+  "homepage": "https://github.com/kctiley/diff-codes#readme"
+}
