@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kctiley/diff-codes/issues"
   },
-  "homepage": "https://github.com/kctiley/diff-codes#readme"
+  "homepage": "https://github.com/kctiley/diff-codes#readme",
+  "devDependencies": {
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
 }
