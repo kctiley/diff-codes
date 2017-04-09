@@ -1,10 +1,10 @@
-require('../css/text_editor_menu.scss');
+require('../css/header.scss');
 
 function component () {
   var element = document.createElement('div');
 
-  element.innerHTML = 'Text editor menu';
-  element.className = 'text-editor-menu';
+  element.innerHTML = 'Job Posting';
+  element.className = 'header';
 
   return element;
 }

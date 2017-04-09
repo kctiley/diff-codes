@@ -1,10 +1,10 @@
-require('../css/text_editor_menu.scss');
+require('../css/footer.scss');
 
 function component () {
   var element = document.createElement('div');
 
-  element.innerHTML = 'Text editor menu';
-  element.className = 'text-editor-menu';
+  element.innerHTML = 'Footer';
+  element.className = 'footer';
 
   return element;
 }
